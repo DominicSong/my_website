@@ -13,3 +13,4 @@ build
 
 db.sqlite3
 .vscode
+web/settings.py
